@@ -3,15 +3,7 @@ html {
 }
 
 body {
-  font-family: Myriad Set Pro, Helvetica Neue, Helvetica, Arial, sans-serif;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  width: 100vw;
-  background-color: ;
-  margin: 0;
-  padding: 0;
+  
 }
 
 .mediaplayer {
@@ -27,6 +19,12 @@ body {
   padding: 20px;
   box-sizing: border-box;
   border-radius: 100px;
+font-family: Myriad Set Pro, Helvetica Neue, Helvetica, Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
 }
 
 @media (max-width: 450px) {
